@@ -2,6 +2,8 @@
 #here basicaly we are creating a quiz game 
 #user have to answer in TRUE or FALSE form
 
+# for quiz generate 
+https://opentdb.com/
 
 # todo 1
 #creating a question class in question_model
